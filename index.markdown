@@ -35,7 +35,7 @@ Im Falle aktiver Zustimmung in den Einstellungen der App können anonyme Fehlerb
 
 **Firebase Datenschutzerklärung**
 
-Wir verwenden auf unserer Website Firebase, ein Analyse- und Monitoring-Tool. Dienstanbieter ist das amerikanische Unternehmen Google Inc. Für den europäischen Raum ist das Unternehmen Google Ireland Limited (Gordon House, Barrow Street Dublin 4, Irland) für alle Google-Dienste verantwortlich.
+In der Android App *Allergietagebuch* wird Firebase, ein Analyse- und Monitoring-Tool verwendet. Dienstanbieter ist das amerikanische Unternehmen Google Inc. Für den europäischen Raum ist das Unternehmen Google Ireland Limited (Gordon House, Barrow Street Dublin 4, Irland) für alle Google-Dienste verantwortlich.
 
 Google verarbeitet Daten von Ihnen u.a. auch in den USA. Wir weisen darauf hin, dass nach Meinung des Europäischen Gerichtshofs derzeit kein angemessenes Schutzniveau für den Datentransfer in die USA besteht. Dies kann mit verschiedenen Risiken für die Rechtmäßigkeit und Sicherheit der Datenverarbeitung einhergehen.
 
